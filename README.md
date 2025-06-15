@@ -151,7 +151,7 @@
   <li>Cost estimate provided to client</li>
 </ul>
 
-<img src="project 1.jpg" alt="Modern One-Storey House" style="max-width:100%; border-radius:8px; margin-bottom:20px;">
+<img src="Project 1.jpg.jpg" alt="Modern One-Storey House" style="max-width:100%; border-radius:8px; margin-bottom:20px;">
   </section>
 
   <section id="about" class="about">
@@ -179,6 +179,3 @@
   <footer>
     &copy; 2025 MS Innovations and Design Solutions. All rights reserved.
   </footer>
-
-</body>
-</html>
