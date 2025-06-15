@@ -144,7 +144,14 @@
       </ul>
     </div>
 
-    <p>📷 [Project photos can be inserted here]</p>
+    <p>📷 <h3>1. Modern One-Storey House – Cotabato City</h3>
+<ul>
+  <li>2D architectural + structural design</li>
+  <li>Full 3D model presentation</li>
+  <li>Cost estimate provided to client</li>
+</ul>
+
+<img src="project 1.jpg" alt="Modern One-Storey House" style="max-width:100%; border-radius:8px; margin-bottom:20px;">
   </section>
 
   <section id="about" class="about">
